@@ -46,7 +46,7 @@
 
 <div align="center">
   
-[<img height="50" width="50" href="mailto:nikhil.krtha@gmail.com" src="https://api.iconify.design/logos:google-gmail.svg" hspace="10"/>](mailto:nikhiil.krtha@gmail.com) [<img height="50" width="50" href="https://www.linkedin.com/in/nikhil-kartha-58799a26a/" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png" hspace="10"/>](https://www.linkedin.com/in/nikhil-kartha-58799a26a/) [<img height="50" width="50" href="https://www.instagram.com/aadithyan.raju/" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png" hspace="10"/>](https://www.instagram.com/_nikxy__?igsh=emlqN2lqY3EyYWlw)
+[<img height="50" width="50" href="mailto:nikhil.krtha@gmail.com" src="https://api.iconify.design/logos:google-gmail.svg" hspace="10"/>](mailto:nikhil.krtha@gmail.com) [<img height="50" width="50" href="https://www.linkedin.com/in/nikhil-kartha-58799a26a/" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png" hspace="10"/>](https://www.linkedin.com/in/nikhil-kartha-58799a26a/) [<img height="50" width="50" href="https://www.instagram.com/aadithyan.raju/" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png" hspace="10"/>](https://www.instagram.com/_nikxy__?igsh=emlqN2lqY3EyYWlw)
 
 </div>
 
@@ -68,4 +68,5 @@
 </table>
 
 ![](https://img.shields.io/github/followers/NikhilKartha5?label=Github%20followers&style=for-the-badge) 
+
 

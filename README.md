@@ -90,14 +90,10 @@ My work spans **Generative AI, deep learning, and computer vision**, with a stro
 
 ---
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/NikhilKartha5/count.svg" alt=""/></td>
-  </tr>
-</table>
+
 
 ![](https://img.shields.io/github/followers/NikhilKartha5?label=Github%20followers&style=for-the-badge)  
+
 
 
 

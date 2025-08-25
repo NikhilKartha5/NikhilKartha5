@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m an **AI researcher and Computer Science graduate** passionate about building **intelligent and creative systems**.  
+I’m an **AI researcher and Computer Science undergraduate** passionate about building **intelligent and creative systems**.  
 My work spans **Generative AI, deep learning, and computer vision**, with a strong focus on **practical AI applications and performance optimization**.  
 
 - 🎓 B.Tech (CSE) Graduate  
@@ -31,17 +31,6 @@ My work spans **Generative AI, deep learning, and computer vision**, with a stro
 - 🔥 **High-Efficiency Deep Learning** – CUDA, PyTorch, performance optimization  
 - 🖼️ **Computer Vision** – Handwriting analysis, thermal & visual imaging  
 - 🎮 **Creative AI** – Multimodal systems for design, animation, interactivity  
-
----
-
-## 🚀 Experience  
-
-### **AI Intern @ Rolls-Royce**  
-- Optimized a neural network, reducing model size from **29 GB → 900 MB** with minimal accuracy loss (97% efficiency gain).  
-- Rewrote Python pipelines with **PyTorch + CUDA**, reducing execution time **2 hrs → 3 mins**.  
-- Built time series segmentation tools for **state classification, dwell time analysis, and transient event detection**.  
-- Designed a **thermal prediction algorithm** integrating physics-based models, reducing dependency on heavy simulations.  
-- Achieved **prediction accuracy within 5–6°C** for TTC engine temperature models.  
 
 ---
 
@@ -112,3 +101,4 @@ My work spans **Generative AI, deep learning, and computer vision**, with a stro
 </table>
 
 ![](https://img.shields.io/github/followers/NikhilKartha5?label=Github%20followers&style=for-the-badge)  
+

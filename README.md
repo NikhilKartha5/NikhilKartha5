@@ -34,12 +34,9 @@ My work spans **Generative AI, deep learning, and computer vision**, with a stro
 
 ---
 
-## 📚 Publications & Patents  
+## 📚 Publications
 
-- 📄 **IEEE Access** – Robust Hardware Fingerprinting with AI  
-- 📄 **Springer** – Deep Residual Networks: Depth vs Accuracy  
-- 🛡️ **Patent Published** – AI-Driven MultiFactor Authentication System with Hardware Fingerprints  
-  *(Patent Application Number: 202541045327)*  
+- 📄 **IEEE** – Dysgraphia Detection in Children Using Handwriting Samples
 
 ---
 
@@ -101,5 +98,6 @@ My work spans **Generative AI, deep learning, and computer vision**, with a stro
 </table>
 
 ![](https://img.shields.io/github/followers/NikhilKartha5?label=Github%20followers&style=for-the-badge)  
+
 
 

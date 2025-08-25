@@ -50,7 +50,7 @@
 
 </div>
 
-## Git Acheivements
+## Git Achievements
 ![](https://github-profile-trophy.vercel.app/?username=NikhilKartha5&no-bg=true&no-frame=true&theme=juicyfresh)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikhilKartha5&theme=github_dark) 
@@ -68,6 +68,7 @@
 </table>
 
 ![](https://img.shields.io/github/followers/NikhilKartha5?label=Github%20followers&style=for-the-badge) 
+
 
 
 

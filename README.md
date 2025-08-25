@@ -59,10 +59,10 @@ My work spans **Generative AI, deep learning, and computer vision**, with a stro
 
 ## 📌 Featured Projects  
 
-- 🧊 **Thermal Image Correction** – Autoencoder pipeline to fix mixed pixels  
-- 🔐 **Hardware Fingerprint MFA** – Mobilenet model for secure authentication  
-- 📈 **ResNet Depth Tradeoff Study** – Analysis of accuracy vs. depth  
-- ⚡ **CUDA Optimization** – High-speed inference pipelines in PyTorch  
+- 📔 **[AI-Journal](https://github.com/NikhilKartha5/AI-Journal)** – AI diary with speech-to-text, sentiment analysis, mood heatmaps, and privacy-focused wellness insights.  
+- 🖊️ **[Dysgraphia-Detection](https://github.com/NikhilKartha5/Dysgraphia-Detection)** – Web app using React, Flask & TensorFlow to detect dysgraphia from handwriting samples. Achieved **91% accuracy** with CNN-BiLSTM.  
+- 📊 **[Churn-Risk-Analysis-ML](https://github.com/NikhilKartha5/Churn-Risk-Analysis-ML)** – Customer churn prediction model using ensemble learning (Random Forest, XGBoost, CatBoost) with a Voting Classifier.  
+- 🎶 **[Music-generation-with-LLM](https://github.com/NikhilKartha5/Music-generation-with-LLM)** – End-to-end ML pipeline generating songs from text prompts using LLMs, transformer-based classifiers & RL-driven chord progression.  
 
 ---
 
@@ -90,10 +90,4 @@ My work spans **Generative AI, deep learning, and computer vision**, with a stro
 
 ---
 
-
-
 ![](https://img.shields.io/github/followers/NikhilKartha5?label=Github%20followers&style=for-the-badge)  
-
-
-
-

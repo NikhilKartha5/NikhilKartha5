@@ -19,7 +19,7 @@
 I’m an **AI researcher and Computer Science undergraduate** passionate about building **intelligent and creative systems**.  
 My work spans **Generative AI, deep learning, and computer vision**, with a strong focus on **practical AI applications and performance optimization**.  
 
-- 🎓 B.Tech (CSE) Graduate  
+- 🎓 B.Tech (CSE) Undergraduate  
 - 🔭 Exploring **Generative AI, Computer Vision & AI Agents**  
 - 🌱 Constantly learning & experimenting with **cutting-edge AI/ML**  
 
@@ -101,4 +101,5 @@ My work spans **Generative AI, deep learning, and computer vision**, with a stro
 </table>
 
 ![](https://img.shields.io/github/followers/NikhilKartha5?label=Github%20followers&style=for-the-badge)  
+
 
